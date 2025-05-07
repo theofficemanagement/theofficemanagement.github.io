@@ -11,7 +11,7 @@
             font-family: 'Roboto', sans-serif;
         }
         .hero-image {
-            background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('attached_assets/1114930%20(1).jpg');
+            background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
             height: 50vh;
             background-position: center;
             background-repeat: no-repeat;
@@ -137,7 +137,7 @@
                             Despite being in a declining industry (paper sales in the digital age), the company survives through a combination of loyal customers, corporate inertia, and the occasional competent decision by its eccentric employees.
                         </p>
                         <div class="mt-6">
-                            <img src="attached_assets/image_1746599486283.png" alt="Dunder Mifflin office workspace" class="rounded-lg shadow-md w-full">
+                            <img src="https://images.unsplash.com/photo-1521791055366-0d553872125f?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Office workspace" class="rounded-lg shadow-md w-full">
                         </div>
                     </div>
                 </div>
@@ -146,7 +146,11 @@
                     <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
                         <div class="bg-white p-6 rounded-lg shadow-md character-card">
                             <div class="flex items-center mb-4">
-                                <img src="attached_assets/Ekran şəkli 2025-05-07 015336.png" alt="Michael Scott" class="h-16 w-16 rounded-full object-cover mr-4">
+                                <div class="h-16 w-16 rounded-full bg-blue-100 flex items-center justify-center mr-4">
+                                    <svg class="h-8 w-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                    </svg>
+                                </div>
                                 <h4 class="text-xl font-semibold">Michael Scott</h4>
                             </div>
                             <p class="text-gray-600">
@@ -155,7 +159,11 @@
                         </div>
                         <div class="bg-white p-6 rounded-lg shadow-md character-card">
                             <div class="flex items-center mb-4">
-                                <img src="attached_assets/Ekran şəkli 2025-05-07 015630.png" alt="Dwight Schrute" class="h-16 w-16 rounded-full object-cover mr-4">
+                                <div class="h-16 w-16 rounded-full bg-blue-100 flex items-center justify-center mr-4">
+                                    <svg class="h-8 w-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                    </svg>
+                                </div>
                                 <h4 class="text-xl font-semibold">Dwight Schrute</h4>
                             </div>
                             <p class="text-gray-600">
@@ -164,7 +172,11 @@
                         </div>
                         <div class="bg-white p-6 rounded-lg shadow-md character-card">
                             <div class="flex items-center mb-4">
-                                <img src="attached_assets/Ekran şəkli 2025-05-07 015804.png" alt="Jim Halpert" class="h-16 w-16 rounded-full object-cover mr-4">
+                                <div class="h-16 w-16 rounded-full bg-blue-100 flex items-center justify-center mr-4">
+                                    <svg class="h-8 w-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round, stroke-width="2" d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                    </svg>
+                                </div>
                                 <h4 class="text-xl font-semibold">Jim Halpert</h4>
                             </div>
                             <p class="text-gray-600">
@@ -173,7 +185,11 @@
                         </div>
                         <div class="bg-white p-6 rounded-lg shadow-md character-card">
                             <div class="flex items-center mb-4">
-                              <img src="attached_assets/Ekran şəkli 2025-05-07 020210.png" alt="Pam Beesly" class="h-16 w-16 rounded-full object-cover mr-4">
+                                <div class="h-16 w-16 rounded-full bg-blue-100 flex items-center justify-center mr-4">
+                                    <svg class="h-8 w-8 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5.121 17.804A13.937 13.937 0 0112 16c2.5 0 4.847.655 6.879 1.804M15 10a3 3 0 11-6 0 3 3 0 016 0zm6 2a9 9 0 11-18 0 9 9 0 0118 0z" />
+                                    </svg>
+                                </div>
                                 <h4 class="text-xl font-semibold">Pam Beesly</h4>
                             </div>
                             <p class="text-gray-600">
@@ -190,7 +206,7 @@
     <section id="failures" class="py-16 bg-white">
         <div class="container mx-auto px-6">
             <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">Management Failures & Theories</h2>
-
+            
             <!-- Section A -->
             <div class="mb-20">
                 <div class="flex flex-col lg:flex-row items-center mb-8">
@@ -243,24 +259,14 @@
                                     </li>
                                 </ul>
                                 <div class="mt-6 bg-gray-200 p-4 rounded-lg">
-                                  <div class="mb-4 relative" style="padding-top: 56.25%;">
-                                    <iframe 
-                                        class="absolute top-0 left-0 w-full h-full rounded-lg"
-                                        src="https://www.youtube.com/embed/gO8N3L_aERg"
-                                        title="The Office Fire Drill Scene"
-                                        frameborder="0"
-                                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                        allowfullscreen>
-                                    </iframe>
-                                  </div>
-                                  <p class="text-gray-600 mb-4">
+                                    <img src="https://images.unsplash.com/photo-1579389083078-4e7018379f7e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Efficient workplace" class="rounded-lg w-full">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
+            
             <!-- Section B -->
             <div class="mb-20">
                 <div class="flex flex-col lg:flex-row items-center mb-8">
@@ -313,14 +319,14 @@
                                     </li>
                                 </ul>
                                 <div class="mt-6 bg-gray-200 p-4 rounded-lg">
-                                    <img src="attached_assets/the-office-office.gif" alt="Branch Wars Scene" class="rounded-lg w-full">
+                                    <img src="https://images.unsplash.com/photo-1552664730-d307ca884978?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Organizational structure" class="rounded-lg w-full">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
+            
             <!-- Section C -->
             <div class="mb-20">
                 <div class="flex flex-col lg:flex-row items-center mb-8">
@@ -373,14 +379,14 @@
                                     </li>
                                 </ul>
                                 <div class="mt-6 bg-gray-200 p-4 rounded-lg">
-                                    <img src="attached_assets/200.gif" alt="Performance Review Scene" class="rounded-lg w-full">
+                                    <img src="https://images.unsplash.com/photo-1556760544-74068565fdf3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Employee relations" class="rounded-lg w-full">
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
+            
             <!-- Section D -->
             <div>
                 <div class="flex flex-col lg:flex-row items-center mb-8">
@@ -433,17 +439,7 @@
                                     </li>
                                 </ul>
                                 <div class="mt-6 bg-gray-200 p-4 rounded-lg">
-                                    <div class="mb-4 relative" style="padding-top: 56.25%;">
-                                        <iframe 
-                                            class="absolute top-0 left-0 w-full h-full rounded-lg"
-                                            src="https://www.youtube.com/embed/wDBkoE68aME?start=10"
-                                            title="The Office Fire Drill Scene"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen>
-                                        </iframe>
-                                    </div>
-                                    <p class="text-gray-600 mb-4">
+                                    <img src="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" alt="Employee motivation" class="rounded-lg w-full">
                                 </div>
                             </div>
                         </div>
@@ -604,33 +600,33 @@
     <section class="py-16 bg-gray-100">
         <div class="container mx-auto px-6">
             <div class="max-w-4xl mx-auto">
-                <h2 class="text-3xl font-bold text-center text-gray-800 mb-12"> Key Management Theories from Class in The Office</h2>
+                <h2 class="text-3xl font-bold text-center text-gray-800 mb-12">📚 Key Management Theories from Class in The Office</h2>
                 <div class="bg-white p-8 rounded-lg shadow-sm">
                     <p class="text-lg text-gray-700 mb-6">
                         These four core theories from our class help explain management in The Office:
                     </p>
-
+                    
                     <div class="mb-8">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3">Scientific Management (Frederick Taylor)</h3>
                         <p class="text-gray-600 pl-4 border-l-4 border-blue-500">
                             Michael often ignores efficient work methods, resulting in wasted time and unclear job roles — the opposite of Taylor's approach.
                         </p>
                     </div>
-
+                    
                     <div class="mb-8">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3">Administrative Theory (Henri Fayol)</h3>
                         <p class="text-gray-600 pl-4 border-l-4 border-blue-500">
                             The lack of proper planning, coordination, and authority structure at Dunder Mifflin shows failures in Fayol's 14 principles.
                         </p>
                     </div>
-
+                    
                     <div class="mb-8">
                         <h3 class="text-xl font-semibold text-gray-800 mb-3">Human Relations Theory (Elton Mayo)</h3>
                         <p class="text-gray-600 pl-4 border-l-4 border-blue-500">
                             Michael's obsession with being liked shows an exaggerated focus on employee happiness over productivity.
                         </p>
                     </div>
-
+                    
                     <div>
                         <h3 class="text-xl font-semibold text-gray-800 mb-3">Theory X and Theory Y (Douglas McGregor)</h3>
                         <p class="text-gray-600 pl-4 border-l-4 border-blue-500">
@@ -656,12 +652,32 @@
                     <p class="mt-2 text-gray-400">Analyzing management through The Office</p>
                 </div>
                 <div class="flex space-x-6">
-                    
+                    <a href="#" class="text-gray-400 hover:text-white">
+                        <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z" />
+                        </svg>
+                    </a>
+                    <a href="#" class="text-gray-400 hover:text-white">
+                        <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
+                        </svg>
+                    </a>
+                    <a href="#" class="text-gray-400 hover:text-white">
+                        <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
+                            <path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z" />
                         </svg>
                     </a>
                 </div>
             </div>
-            
+            <div class="mt-8 border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between">
+                <p class="text-gray-400 text-sm">
+                    © 2023 Office Management Study. All rights reserved.
+                </p>
+                <div class="mt-4 md:mt-0">
+                    <a href="#" class="text-gray-400 hover:text-white text-sm mr-4">Privacy Policy</a>
+                    <a href="#" class="text-gray-400 hover:text-white text-sm mr-4">Terms of Service</a>
+                    <a href="#" class="text-gray-400 hover:text-white text-sm">Contact</a>
+                </div>
             </div>
         </div>
     </footer>
@@ -671,7 +687,7 @@
         document.querySelectorAll('a[href^="#"]').forEach(anchor => {
             anchor.addEventListener('click', function (e) {
                 e.preventDefault();
-
+                
                 document.querySelector(this.getAttribute('href')).scrollIntoView({
                     behavior: 'smooth'
                 });
